@@ -20,7 +20,7 @@
 
 ## Demo 
 
-[BinToDec XP](http://cesardmn.github.io/projects/binToDec/index.html)
+[BinToDec XP](http://cesardmn.github.io/projects/bin_to_dec/index.html)
 
 ### inspired by [app-ideas](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
